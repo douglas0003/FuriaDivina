@@ -1,0 +1,3 @@
+Desenvolvedor: Douglas P Ferreira
+Data.........: 04/10/2020
+Objetivo.....: Criar uma aplicação que auxilie a criação das partys e controle de membros no jogo ragnarok mobile.
